@@ -4,7 +4,7 @@
 ###
 - 🔭 I’m currently working on [MeineAI](https://github.com/Balaji01-4D/MeineRE)
 
-- 🌱 I’m currently learning **Textual, Rust, Spacy**
+- 🌱 I’m currently learning **Textual, Rust**
 
 - 👯 I’m looking to collaborate on **nlp project**
 
