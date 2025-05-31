@@ -2,13 +2,13 @@
 <h3 align="center">🚀 Passionate about building real-world applications that make an impact!</h3>
 
 ###
-- 🔭 I’m currently working on [MeineAI](https://github.com/Balaji01-4D/MeineRE)
+- 🔭 I’m currently working on [Meine](https://github.com/Balaji01-4D/meine)
 
-- 🌱 I’m currently learning **Textual, Rust**
+- 🌱 I’m currently learning **Textual, Spring**
 
-- 👯 I’m looking to collaborate on **nlp project**
+- 👯 I’m looking to collaborate on **ecommerce website**
 
-- 🤝 I’m looking for help with [MeineAI](https://github.com/Balaji01-4D/MeineRE)
+- 🤝 I’m looking for help with [Meine](https://github.com/Balaji01-4D/meine)
 
 - 📫 How to reach me **j.balaji2468@gmail.com**
 ###
