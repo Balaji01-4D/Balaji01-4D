@@ -4,13 +4,12 @@
 ###
 - 🔭 I’m currently working on [Meine](https://github.com/Balaji01-4D/meine)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Boot**, **go**
 
-- 👯 I’m looking to collaborate on **ecommerce website**
+- 👯 I’m looking to collaborate on **ecommerce website frontend-dev**
 
 - 🤝 I’m looking for help with [Meine](https://github.com/Balaji01-4D/meine)
 
-- 📫 How to reach me **j.balaji2468@gmail.com**
 ###
 
 ---
