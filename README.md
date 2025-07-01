@@ -1,39 +1,66 @@
-<h1 align="center">Hi 👋, I'm Balaji</h1>
-<h3 align="center">🚀 Passionate about building real-world applications that make an impact!</h3>
+# 💫 About Me
 
-###
-- 🔭 I’m currently working on [Meine](https://github.com/Balaji01-4D/meine)
 
-- 🌱 I’m currently learning **Spring Boot**, **go**
+🔭 I’m currently working on  
+Building an **e-commerce** project using **React** and **Go**.
 
-- 👯 I’m looking to collaborate on **ecommerce website frontend-dev**
+👯 I’m looking to collaborate on  
+**Backend development** projects — ideally involving Go, Python, or microservices.
 
-- 🤝 I’m looking for help with [Meine](https://github.com/Balaji01-4D/meine)
+🤝 I’m looking for help with  
+**Frontend development**, especially **React-based UI/UX**.
 
-###
+🌱 I’m currently learning  
+**Go** and designing scalable **REST APIs** with best practices.
+
+💬 Ask me about  
+**Linux system configuration**, **terminal customization**, and **developer environment setup**.
+
+⚡ Fun fact  
+I code with the goal of creating value **for humanity** — everything I build aims to solve real problems.
 
 ---
 
-<h2 align="left">I code with</h2>
+### ✍️ Random Dev Quote  
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="45" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
-</div>
-
-###
+---
 
 
+# 💻 Tech Stack
+
+### **Languages**  
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### **Frameworks**  
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+### **Databases**  
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Tools & Platforms**  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  
+![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=Balaji01-4D&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Balaji01-4D&theme=dracula&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji01-4D&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+---
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
