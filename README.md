@@ -5,7 +5,7 @@
 Building an **e-commerce** project using **React** and **Go**.
 
 👯 I’m looking to collaborate on  
-**Backend development** projects — ideally involving Go, Python, or microservices.
+**Backend development** projects — ideally involving Go, Python, or Java Rest API.
 
 🤝 I’m looking for help with  
 **Frontend development**, especially **React-based UI/UX**.
