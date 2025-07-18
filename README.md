@@ -1,22 +1,21 @@
-# 💫 About Me
+# About Me
 
-
-🔭 I’m currently working on  
+I’m currently working on  
 Building an **e-commerce** project using **React** and **Go**.
 
-👯 I’m looking to collaborate on  
+I’m looking to collaborate on  
 **Backend development** projects — ideally involving Go, Python, or Java Rest API.
 
-🤝 I’m looking for help with  
+I’m looking for help with  
 **Frontend development**, especially **React-based UI/UX**.
 
-🌱 I’m currently learning  
+I’m currently learning  
 **Go** and designing scalable **REST APIs** with best practices.
 
-💬 Ask me about  
+Ask me about  
 **Linux system configuration**, **terminal customization**, and **developer environment setup**.
 
-⚡ Fun fact  
+Fun fact  
 I code with the goal of creating value **for humanity** — everything I build aims to solve real problems.
 
 ---
@@ -25,7 +24,6 @@ I code with the goal of creating value **for humanity** — everything I build a
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-
 
 # 💻 Tech Stack
 
@@ -52,7 +50,7 @@ I code with the goal of creating value **for humanity** — everything I build a
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=Balaji01-4D&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)
 
@@ -61,6 +59,5 @@ I code with the goal of creating value **for humanity** — everything I build a
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji01-4D&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
