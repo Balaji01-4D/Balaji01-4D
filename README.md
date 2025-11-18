@@ -1,13 +1,7 @@
 # About Me
 
-I’m currently working on  
-Building an **e-commerce** project using **React** and **Go**.
-
 I’m looking to collaborate on  
 **Backend development** projects — ideally involving Go, Python, or Java Rest API.
-
-I’m looking for help with  
-**Frontend development**, especially **React-based UI/UX**.
 
 I’m currently learning  
 **Go** and designing scalable **REST APIs** with best practices.
@@ -17,12 +11,6 @@ Ask me about
 
 Fun fact  
 I code with the goal of creating value **for humanity** — everything I build aims to solve real problems.
-
----
-
-### ✍️ Random Dev Quote  
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 ---
 
 # 💻 Tech Stack
@@ -49,12 +37,6 @@ I code with the goal of creating value **for humanity** — everything I build a
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
 ---
-
-# GitHub Stats
-
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=Balaji01-4D&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Balaji01-4D&theme=dracula&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji01-4D&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
