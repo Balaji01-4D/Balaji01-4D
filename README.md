@@ -9,10 +9,6 @@ I’m currently learning
 Ask me about  
 **Linux system configuration**, **terminal customization**, and **developer environment setup**.
 
-Fun fact  
-I code with the goal of creating value **for humanity** — everything I build aims to solve real problems.
----
-
 # 💻 Tech Stack
 
 ### **Languages**  
