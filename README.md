@@ -6,4 +6,4 @@
 </p>
 
 
-<p align="center">Hi, i am Balaji...</p>
+<h1 align="center">Hi, i am Balaji...</h1>
